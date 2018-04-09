@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CTV News</string>
+    <string name="news_not_found">News not found!</string>
+    <string name="choose_share">Choose the application to share the news.</string>
+    <string name="share">Share</string>
+    <string name="no_news_to_show">Sorry. There is not any news to show.</string>
+</resources>
